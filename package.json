@@ -1,12 +1,12 @@
 {
-  "name": "test1",
-  "version": "1.0.0",
+  "name": "vuhuucuong-test",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "@reapit/elements": "^0.5.62"
   },
-  "homepage": "https://github.com/vuhuucuong/test/test-inside",
+  "homepage": "https://github.com/vuhuucuong/test",
   "files": [
     "test/test-inside"
   ],
