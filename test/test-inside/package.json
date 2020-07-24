@@ -6,7 +6,7 @@
   "dependencies": {
     "@reapit/elements": "^0.5.62"
   },
-  "homepage": "https://github.com/vuhuucuong/test/test-inside",
+  "homepage": "https://github.com/vuhuucuong/test",
   "files": [
     "test/test-inside"
   ],
